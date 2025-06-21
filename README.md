@@ -23,3 +23,4 @@ This is a fully functional UI prototype of the HouseMD app designed for internal
 1. **Install dependencies**
    ```bash
    pip install -r requirements.txt
+   streamlit run app.py
